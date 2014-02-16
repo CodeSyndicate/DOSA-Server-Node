@@ -1,4 +1,8 @@
+.project
+.c9revisions/*
+
 lib-cov
+lcov.info
 *.seed
 *.log
 *.csv
@@ -7,9 +11,13 @@ lib-cov
 *.pid
 *.gz
 
+*.suo
+*.sln
+
 pids
 logs
 results
+build
+.grunt
 
-npm-debug.log
 node_modules
